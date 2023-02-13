@@ -1,3 +1,3 @@
 # pjs5
 
-Web scrapper for particular items in Allegro
+Web scrapper for particular items in Amazon
